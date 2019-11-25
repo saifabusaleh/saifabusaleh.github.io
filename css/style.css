@@ -61,15 +61,6 @@ a {
   background-size: 1px 1px;
   background-position: 0 87%;
 }
-
-
-.contact-main span {
-  font-size: 60px;
-}
-
-.contact-info {
-  font-size: 16px;
-}
 .no-cssgradients a {
   text-decoration: underline;
 }
