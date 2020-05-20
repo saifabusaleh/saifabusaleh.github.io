@@ -1,17 +1,17 @@
 
 # The name of your website.
-name: Saif Abu Saleh
+name: Saif Abusaleh
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Saif Abu Saleh blog
+  meta: Saif Abusaleh blog
 
   # Description of your site. This will show up on the front page.
   subtitle: 
 
 author:
-  name: Saif Abu Saleh
+  name: Saif Abusaleh
 
   # Necessary for contact page
   email: saif.as7777@gmail.com
@@ -39,7 +39,7 @@ display-social-icons: true
 # If you want social links to open in a new tab, set this as true
 social-icons-open-newtab: true
 
-footer-text: Saif Abu Saleh
+footer-text: Saif Abusaleh
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
